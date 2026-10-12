@@ -4,6 +4,8 @@
 
 MSc student in Informatics Engineering (Artificial Intelligence) at the University of Coimbra, interested in reinforcement learning and quantum computing.
 
+Se estás aqui para o IngenhariaEnformatica é OBRIGATÓRIO deixar estrelinha. Preciso das achievements do GitHub.
+
 - **Now:** master's thesis on generative AI for quantum error correction.
 - **G-quAI:** student researcher in [G-quAI](https://github.com/G-quAI), a quantum AI project for gastrointestinal cancer detection from medical images.
 
